@@ -24,7 +24,7 @@
 
   <p>✔️ 1º Dia: Criar um repositorio para listar os projetos - 16/08</p>
   <p>✔️ 2º Dia: Hello World customizado com fontes, cores e imagens - 17/08</p>
-  <p>3º Dia: Criar um botão animado - 18/08</p>
+  <p>✔️ 3º Dia: Criar um botão animado - 18/08</p>
   <p>4º Dia: Criar uma calculadora - 19/08</p>
   <p>5º Dia: Desenvolder uma página customizada que exibe o erro 404 - 20/08</p>
   <p>6º Dia: Criar um card com efeito glassmorphism - 21/08</p>
