@@ -27,7 +27,7 @@
   <p>✔️ 3º Dia: Criar um botão animado - 18/08</p>
   <p>✔️ 4º Dia: Criar uma calculadora - 19/08</p>
   <p>✔️ 5º Dia: Desenvolver uma página customizada que exibe o erro 404 - 20/08</p>
-  <p>6º Dia: Criar um card com efeito glassmorphism - 21/08</p>
+  <p>✔️ 6º Dia: Criar um card com efeito glassmorphism - 21/08</p>
   <p>7º Dia: Desenvolver um contador - 22/08<p>
 
 <p align="center">Made with 💜 by Mariana Lima</p>
