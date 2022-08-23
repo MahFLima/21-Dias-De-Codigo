@@ -29,7 +29,7 @@
   <p>✔️ 5º Dia: Desenvolver uma página customizada que exibe o erro 404 - 20/08</p>
   <p>✔️ 6º Dia: Criar um card com efeito glassmorphism - 21/08</p>
   <p>✔️ 7º Dia: Desenvolver um contador - 22/08<p>
-  <p>8º Dia: Desenvolver um toggle que altere o tema para claro e escuro - 23/08<p>
+  <p>✔️ 8º Dia: Desenvolver um toggle que altere o tema para claro e escuro - 23/08<p>
   <p>9º Dia: Crie uma animação de loading - 24/08<p>
   <p>10º Dia: Utilize a lib Particle.js - 25/08<p>
   <p>11º Dia: Crie o layout de um formulário de login - 26/08<p>
