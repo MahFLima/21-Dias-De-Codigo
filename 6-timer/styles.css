@@ -1,0 +1,58 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+}
+
+body {
+  background-color: #17181a;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.content{
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.max-width {
+  background: rgba(255, 255, 255, 0.5);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  border-radius: 10px;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+  font-family: "Courier New", Courier, monospace;
+  margin-top: 20px;
+}
+
+button {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+
+.bg-play {
+  margin-right: 1rem;
+}
+
+.bg-pause {
+  margin-right: 1rem;
+}
+
+
+
+.icon{
+  width: 2rem;
+  height: 2rem;
+}

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css"/>
+    <title>Timer</title>
+  </head>
+  <body>
+    <div class="max-width">
+      <div class="content">
+        <button onclick="start();" class="bg-play"><img class="icon" src="./assets/play.svg"/></button>
+        <button onclick="pause();" class="bg-pause"><img class="icon" src="./assets/pause.svg"/></button>
+        <button onclick="stop();" class="bg-reset"><img class="icon" src="./assets/stop.svg"/></button>
+      </div>
+
+      <h1 id="counter">00:00:00</h1>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
