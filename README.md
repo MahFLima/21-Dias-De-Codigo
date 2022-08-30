@@ -35,6 +35,13 @@
   <p>✔️ 11º Dia: Crie o layout de um formulário de login - 26/08<p>
   <p>✔️ 12º Dia: Desenvolva uma galeria de imagens - 27/08<p>
   <p>✔️ 13º Dia: Desenvolva um menu responsivo - 28/08<p>
-  <p>14º Dia: Crie um formulario de quizzes - 29/08<p>
+  <p>✔️ 14º Dia: Crie um formulario de quizzes - 29/08<p>
+  <p>15º Dia: Desenvolva um site que exiba uma vitrine de produtos de um e-commerce- 30/08<p>
+  <p>16º Dia: Desenvolva um site utilizando alguma API pública - 31/08<p>
+  <p>17º Dia: Desenvolva um site que capture os eventos do teclado e exiba na tela - 01/09<p>
+  <p>18º Dia: Desenvolva um gerador de senhas aleatórias - 02/09<p>
+  <p>19º Dia: Desenvolva um site que gere imagens aleatorias utilizando a API do Unsplash - 03/09<p>
+  <p>20º Dia: Desenvolva um site de emoji piker - 04/09<p>
+  <p>21º Dia: Desenvolva uma página para ser seu portifólio - 05/09<p>
 
 <p align="center">Made with 💜 by Mariana Lima</p>
