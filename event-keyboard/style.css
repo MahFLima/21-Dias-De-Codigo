@@ -1,0 +1,65 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: gray;
+}
+
+.oitava{
+  display: flex;
+  position: relative;
+}
+
+.key.black{
+  color: white;
+}
+
+.key:hover{
+  background: green;
+}
+
+.white{
+  background: white;
+  width: 50px;
+  height: 300px;
+  border: 1px solid black;
+}
+
+.black{
+  background: black;
+  position: absolute;
+  width: 30px;
+  height: 160px;
+}
+
+[cs]{
+  left: 35px;
+}
+
+[ds]{
+  left: 85px;
+}
+
+[fs]{
+  left: 185px;
+}
+
+[gs]{
+  left: 235px;
+}
+
+[as]{
+  left: 285px;
+}
+
+.press{
+  background: green;
+}
