@@ -41,7 +41,7 @@
   <p>✔️ 17º Dia: Desenvolva um site que capture os eventos do teclado e exiba na tela - 01/09<p>
   <p>✔️ 18º Dia: Desenvolva um gerador de senhas aleatórias - 02/09<p>
   <p>✔️ 19º Dia: Desenvolva um site que gere imagens aleatorias utilizando a API do Unsplash - 03/09<p>
-  <p>20º Dia: Desenvolva um site de emoji piker - 04/09<p>
+  <p>✔️ 20º Dia: Desenvolva um site de emoji piker - 04/09<p>
   <p>21º Dia: Desenvolva uma página para ser seu portifólio - 05/09<p>
 
 <p align="center">Made with 💜 by Mariana Lima</p>
