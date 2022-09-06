@@ -11,7 +11,8 @@ export const Container = styled.div`
 `;
 
 export const DwlC = styled.a`
-  padding: 0.8rem 0;
+  margin-top: 2rem;
+  padding: 0.8rem 2rem;
   font-weight: 500;
   font-size: 22px;
   line-height: 33px;
