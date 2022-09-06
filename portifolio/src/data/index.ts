@@ -1,9 +1,9 @@
-import day17 from "../assets/day17.png"
-import day2 from "../assets/day2.gif"
-import day4 from "../assets/day4.png"
-import day9 from "../assets/day9.gif"
-import day15 from "../assets/day15.gif"
-import day21 from "../assets/day21.png"
+// import day17 from "../assets/day17.png"
+// import day2 from "../assets/day2.gif"
+// import day4 from "../assets/day4.png"
+// import day9 from "../assets/day9.gif"
+// import day15 from "../assets/day15.gif"
+// import day21 from "../assets/day21.png"
 
 export default [
   {
@@ -12,7 +12,7 @@ export default [
   },
   {
     title: "2º Dia: Hello World customizado com fontes, cores e imagens",
-    image: day2
+    image: ""
   },
   {
     title: "3º Dia: Criar um botão animado",
@@ -20,7 +20,7 @@ export default [
   },
   {
     title: "4º Dia: Criar uma calculadora",
-    image: day4
+    image: ""
   },
   {
     title: "5º Dia: Desenvolver uma página customizada que exibe o erro 404",
@@ -40,7 +40,7 @@ export default [
   },
   {
     title: "9º Dia: Crie uma animação de loading",
-    image: day9
+    image: ""
   },
   {
     title: "10º Dia: Utilize a lib Particle.js",
@@ -64,7 +64,7 @@ export default [
   },
   {
     title: "15º Dia: Desenvolva um site que exiba uma vitrine de produtos de um e-commerce",
-    image: day15
+    image: ""
   },
   {
     title: "16º Dia: Desenvolva um site utilizando alguma API pública",
@@ -72,7 +72,7 @@ export default [
   },
   {
     title: "17º Dia: Desenvolva um site que capture os eventos do teclado e exiba na tela",
-    image: day17
+    image: ""
   },
   {
     title: "18º Dia: Desenvolva um gerador de senhas aleatórias",
@@ -88,6 +88,6 @@ export default [
   },
   {
     title: "21° Dia: Desenvolva uma página para ser seu portifólio",
-    image: day21
+    image: ""
   },
 ]
