@@ -1,9 +1,3 @@
-// import day17 from "../assets/day17.png"
-// import day2 from "../assets/day2.gif"
-// import day4 from "../assets/day4.png"
-// import day9 from "../assets/day9.gif"
-// import day15 from "../assets/day15.gif"
-// import day21 from "../assets/day21.png"
 
 export default [
   {
@@ -12,7 +6,7 @@ export default [
   },
   {
     title: "2º Dia: Hello World customizado com fontes, cores e imagens",
-    image: ""
+    image: "https://i.pinimg.com/564x/87/a8/d4/87a8d4dc2c25e71a92f917314c2b559a.jpg"
   },
   {
     title: "3º Dia: Criar um botão animado",
@@ -20,7 +14,7 @@ export default [
   },
   {
     title: "4º Dia: Criar uma calculadora",
-    image: ""
+    image: "https://i.pinimg.com/236x/d1/ac/58/d1ac580b1da1de3c5ff08effa15f9ff5.jpg"
   },
   {
     title: "5º Dia: Desenvolver uma página customizada que exibe o erro 404",
@@ -40,7 +34,7 @@ export default [
   },
   {
     title: "9º Dia: Crie uma animação de loading",
-    image: ""
+    image: "https://i.pinimg.com/236x/53/99/6f/53996f6873c1a3e7497230244d2ad70d.jpg"
   },
   {
     title: "10º Dia: Utilize a lib Particle.js",
@@ -64,7 +58,7 @@ export default [
   },
   {
     title: "15º Dia: Desenvolva um site que exiba uma vitrine de produtos de um e-commerce",
-    image: ""
+    image: "https://i.pinimg.com/564x/b3/b1/42/b3b142f16eb8344b73de7e3137bffabb.jpg"
   },
   {
     title: "16º Dia: Desenvolva um site utilizando alguma API pública",
@@ -72,7 +66,7 @@ export default [
   },
   {
     title: "17º Dia: Desenvolva um site que capture os eventos do teclado e exiba na tela",
-    image: ""
+    image: "https://i.pinimg.com/564x/0f/6b/6b/0f6b6bba6158a8032184b62d4726b2e1.jpg"
   },
   {
     title: "18º Dia: Desenvolva um gerador de senhas aleatórias",
@@ -88,6 +82,6 @@ export default [
   },
   {
     title: "21° Dia: Desenvolva uma página para ser seu portifólio",
-    image: ""
+    image: "https://media-exp1.licdn.com/dms/image/C4D22AQHLJW9s5d28dQ/feedshare-shrink_800/0/1662426803929?e=1665619200&v=beta&t=f9GZ5Z-6Xe-NvxX8rguV7MLj1liUwuU2NCmWgSWLU_Q"
   },
 ]

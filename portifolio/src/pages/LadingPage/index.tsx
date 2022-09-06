@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import { saveAs } from "file-saver";
 import classNames from "classnames"
 import {
   IconCodepen,
@@ -11,7 +12,8 @@ import {
   IconUser,
   IconDocument,
   IconProject,
-  Line
+  Line,
+  IconArrow
 } from '../../styles/icons';
 
 
@@ -22,47 +24,42 @@ import {
   ImageUser,
   InfoUser,
   Content,
-  DwlC
+  DwlC,
+  Top
 } from './styles';
 import About from '../../components/About';
 import Projects from '../../components/Projects';
 
+const urlToDownload = "https://drive.google.com/uc?id=1QpaUYFa8vuwLv1l5x5NHEEnmXkJbkLCT&export=download";
+
 export const LadingPage: React.FC = () => {
   const [isActive, setIsActive] = useState(false)
-  const [infoGitHub, setInfoGitHub] = useState({})
-  const url = "https://api.github.com/users/MahFLima/repos"
   const divRef = React.useRef<HTMLDivElement>(null)
-  
-  async function getInfoGitHub() {
-    try {
-      const response = await fetch(url)
-      const data = await response.json()
+  const [download, setDownload] = useState("");
+  const [count, setCount] = useState(0);
 
-      setInfoGitHub(data)
-
-    } catch (error) {
-      console.log("erro");
-    }
-  }
-
-  useEffect(() => {
-    getInfoGitHub()
-  }, [])
 
   function handleMode() {
     isActive ? setIsActive(false) : setIsActive(true)
     divRef.current?.classList.toggle("active")
   }
 
+  function handleScroll(){
+    window.scroll({
+      top: 0,
+      behavior: 'smooth'
+    })
+  }
+
   return (
-
-
     <Container ref={divRef}>
       <section>
         <a href="#"><IconHome /></a>
         <a href="#user"><IconUser /></a>
         <a href="#project"><IconProject /></a>
       </section>
+
+      <Top onClick={handleScroll}><IconArrow/></Top>
 
       <EventTag onClick={handleMode}>
         {isActive ? (<IconMoon />) : <IconSun />}
@@ -73,10 +70,10 @@ export const LadingPage: React.FC = () => {
           <strong>Mariana Lima</strong>
           <p>Dev Front-End</p>
           <div>
-            <a href="https://github.com/MahFLima" target="_blank" className={classNames({"txtnormal": !isActive}, {"txtactive": isActive})}><IconGitHub /></a>
-            <a href="https://www.linkedin.com/in/mahflima/" target="_blank" className={classNames({"txtnormal": !isActive}, {"txtactive": isActive})}><IconLinkedin /></a>
-            <a href="https://codepen.io/mahflima" target="_blank" className={classNames({"txtnormal": !isActive}, {"txtactive": isActive})}><IconCodepen /></a>
-            <a href="https://www.codewars.com/users/MahFLima" target="_black" className={classNames({"txtnormal": !isActive}, {"txtactive": isActive})}><IconCodewars /></a>
+            <a href="https://github.com/MahFLima" target="_blank" className={classNames({ "txtnormal": !isActive }, { "txtactive": isActive })}><IconGitHub /></a>
+            <a href="https://www.linkedin.com/in/mahflima/" target="_blank" className={classNames({ "txtnormal": !isActive }, { "txtactive": isActive })}><IconLinkedin /></a>
+            <a href="https://codepen.io/mahflima" target="_blank" className={classNames({ "txtnormal": !isActive }, { "txtactive": isActive })}><IconCodepen /></a>
+            <a href="https://www.codewars.com/users/MahFLima" target="_black" className={classNames({ "txtnormal": !isActive }, { "txtactive": isActive })}><IconCodewars /></a>
           </div>
         </InfoUser>
       </ContentUser>
@@ -90,12 +87,16 @@ export const LadingPage: React.FC = () => {
           <p>Completed <br /> projects</p>
         </div>
       </Content>
-      <DwlC href="../../assets/curriculo.pdf" download="curriculo.pdf" type="application/pdf">Download CV</DwlC>
+      <DwlC href="https://drive.google.com/uc?id=1QpaUYFa8vuwLv1l5x5NHEEnmXkJbkLCT&export=download">
+        Download CV
+      </DwlC>
+
       <Line></Line>
-      <About/>
+      <About />
       <Line></Line>
-      <Projects/>
+      <Projects />
       <Line></Line>
+      <p style={{marginBottom: "1rem"}}>Made with 💜 by Mariana Lima</p>
     </Container>
 
   );

@@ -20,6 +20,15 @@ export const DwlC = styled.a`
   background: blueviolet;
 `
 
+export const Top = styled.button`
+  position: fixed;
+  border: none;
+  bottom: 2rem;
+  right: 2rem;
+  cursor: pointer;
+  background: transparent;
+`
+
 export const EventTag = styled.button`
   margin-top: 2rem;
   width: 5rem;

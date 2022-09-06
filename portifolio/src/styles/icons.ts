@@ -1,5 +1,5 @@
 import styled, {css} from "styled-components"
-import { Github, Sun, Moon, Linkedin } from "@styled-icons/bootstrap"
+import { Github, Sun, Moon, Linkedin, ArrowUpCircle } from "@styled-icons/bootstrap"
 import { Codepen, Html5, Javascript, Css3, ReactLogo } from "@styled-icons/boxicons-logos"
 import { Codewars, Typescript } from "@styled-icons/simple-icons"
 import { Home, User } from "@styled-icons/boxicons-solid"
@@ -74,5 +74,10 @@ export const Line = styled.div`
   height: 4px;
   margin: 4rem 0;
   background: transparent;
+`
+
+export const IconArrow = styled(ArrowUpCircle)`
+  ${iconCss}
+  color: green;
 `
 
