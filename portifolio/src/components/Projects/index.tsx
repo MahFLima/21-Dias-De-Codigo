@@ -2,7 +2,6 @@ import React, {useState, useEffect} from 'react';
 import data from "../../data"
 import Card from '../Card';
 import { Container } from './styles';
-import index from "../../../../1-hello-world/src/App"
 
 const Projects: React.FC = () => {
 
