@@ -16,7 +16,7 @@ const Projects: React.FC = () => {
               key={index} 
               title={item.title} 
               image={item.image} 
-              link="https://github.com/MahFLima/21-Dias-De-Codigo"
+              link={item.link}
             />
           )
         })}
