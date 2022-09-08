@@ -16,7 +16,7 @@ import {
 
 type Props = React.HTMLProps<HTMLInputElement>
 
-export const Header: FunctionComponent<Props> = ({onChange}) => {
+export const Header: FunctionComponent<Props> = ({ children }) => {
   return (
     <Container>
       <ButtonIconMenu>
@@ -24,7 +24,7 @@ export const Header: FunctionComponent<Props> = ({onChange}) => {
       </ButtonIconMenu>
       <Title><strong>Eco</strong>mmerce</Title>
       <SearchInput>
-        <input type="text" placeholder="pesquisar" onChange={onChange}/>
+        {children}
         <Button><SearchIcon /></Button>
       </SearchInput>
       <SignIn>Sign in</SignIn>

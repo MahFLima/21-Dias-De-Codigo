@@ -34,9 +34,11 @@ export const HomePage: React.FC = () => {
 
   return (
     <Container>
-      <Header onChange={(e: Event) => { setSearchInput(e.target?.value) }} />
+      <Header>
+        <input type="text" placeholder="pesquisar" onChange={(e) => { setSearchInput(e.target?.value) }}/>
+      </Header>
       <SearchInput>
-        <input type="text" placeholder="pesquisar" onChange={(e: Event) => { setSearchInput(e.target?.value) }} />
+        <input type="text" placeholder="pesquisar" onChange={(e) => { setSearchInput(e.target?.value) }} />
         <Button><SearchIcon /></Button>
       </SearchInput>
 
