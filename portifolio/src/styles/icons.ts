@@ -5,8 +5,7 @@ import { Codewars, Typescript } from "@styled-icons/simple-icons"
 import { Home, User } from "@styled-icons/boxicons-solid"
 import { DocumentPerson } from "@styled-icons/fluentui-system-regular"
 import { ProjectDiagram } from "@styled-icons/fa-solid"
-
-
+import { Plus } from "@styled-icons/boxicons-regular"
 
 const iconCss = css`
   width: 2rem; 
@@ -16,6 +15,7 @@ export const IconHome = styled(Home)`${iconCss}`
 export const IconUser = styled(User)`${iconCss}`
 export const IconDocument = styled(DocumentPerson)`${iconCss}`
 export const IconProject = styled(ProjectDiagram)`${iconCss}`
+export const IconPlus = styled(Plus)`${iconCss}`
 
 export const IconSun = styled(Sun)`${iconCss}`
 export const IconMoon = styled(Moon)`${iconCss}`

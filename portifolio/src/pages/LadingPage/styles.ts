@@ -18,6 +18,10 @@ export const DwlC = styled.a`
   line-height: 33px;
   color: #F1F2F4;
   background: blueviolet;
+
+  &:hover{
+    opacity: 0.7;
+  }
 `
 
 export const Top = styled.button`

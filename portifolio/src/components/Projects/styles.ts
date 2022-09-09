@@ -9,14 +9,31 @@ export const Container = styled.div`
   > strong {
     font-size: 2rem;
     margin-bottom: 1rem;
+    text-align: center;
   }
+`;
 
-  > div {
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    padding: 0 4rem;
-    gap: 1rem;
+export const Content = styled.div`
+  width: 500px;
+  display: flex;
+  overflow: hidden;
+  overflow-x: scroll;
+  scroll-snap-type: x mandatory;
+
+  ::-webkit-scrollbar {
+    background: gray;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: blueviolet;
+  }
+`;
+
+export const Controls = styled.div`
+  display: flex;
+  margin-top: 1rem;
+  gap: 2rem;
+
+  > button {
+    padding: 0.5rem 1rem;
   }
 `;

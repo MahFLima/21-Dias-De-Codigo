@@ -13,7 +13,8 @@ import {
   IconDocument,
   IconProject,
   Line,
-  IconArrow
+  IconArrow,
+  IconPlus
 } from '../../styles/icons';
 
 
@@ -28,6 +29,7 @@ import {
   Top
 } from './styles';
 import About from '../../components/About';
+import Desafios from '../../components/Desafios';
 import Projects from '../../components/Projects';
 
 const urlToDownload = "https://drive.google.com/uc?id=1QpaUYFa8vuwLv1l5x5NHEEnmXkJbkLCT&export=download";
@@ -54,9 +56,10 @@ export const LadingPage: React.FC = () => {
   return (
     <Container ref={divRef}>
       <section>
-        <a href="#"><IconHome /></a>
-        <a href="#user"><IconUser /></a>
-        <a href="#project"><IconProject /></a>
+        <a href="#"><IconHome /> Home</a>
+        <a href="#user"><IconUser/> Sobre</a>
+        <a href="#project"><IconProject/> Projetos</a>
+        <a href="#plus"><IconPlus/> Extra </a>
       </section>
 
       <Top onClick={handleScroll}><IconArrow/></Top>
@@ -94,7 +97,9 @@ export const LadingPage: React.FC = () => {
       <Line></Line>
       <About />
       <Line></Line>
-      <Projects />
+      <Projects/>
+      <Line></Line>
+      <Desafios />
       <Line></Line>
       <p style={{marginBottom: "1rem"}}>Made with 💜 by Mariana Lima</p>
     </Container>

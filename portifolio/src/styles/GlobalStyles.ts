@@ -42,14 +42,20 @@ export const GlobalStyle = createGlobalStyle`
     }
 
     >a {
+      width: 3rem;
+      height: 3rem;
       border: none;
       padding: 0.5rem;
       background: white;
       border-radius: 50%;
       color: #3d3d3d;
+      overflow: hidden;
 
       &:hover{
+        width: 100%;
+        height: 100%;
         background: blueviolet;
+        border-radius: 1rem;
         color: white;
       }
     }
