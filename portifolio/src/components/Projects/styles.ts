@@ -14,11 +14,16 @@ export const Container = styled.div`
 `;
 
 export const Content = styled.div`
-  width: 500px;
+  width: 100%;
+  max-width: 400px;
   display: flex;
   overflow: hidden;
   overflow-x: scroll;
   scroll-snap-type: x mandatory;
+
+  @media(min-width: 500px){
+    max-width: 500px;
+  }
 
   ::-webkit-scrollbar {
     background: gray;
