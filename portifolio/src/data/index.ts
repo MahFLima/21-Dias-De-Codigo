@@ -7,7 +7,7 @@ export default [
   },
   {
     title: "2º Dia: Hello World customizado com fontes, cores e imagens(REPO)",
-    image: "https://i.pinimg.com/564x/87/a8/d4/87a8d4dc2c25e71a92f917314c2b559a.jpg",
+    image: "https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y29kZSUyMGpzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
     link: "https://github.com/MahFLima/21-Dias-De-Codigo/tree/main/1-hello-world"
   },
   {
@@ -52,7 +52,7 @@ export default [
   },
   {
     title: "11º Dia: Crie o layout de um formulário de login(REPO)",
-    image: "https://media-exp1.licdn.com/dms/image/C4D22AQGvHQvencn6Ow/feedshare-shrink_800/0/1661529779392?e=1665014400&v=beta&t=FpCuMRHvQLLV4XAWyLOaSwfDQJF6SAOFU9Ay_9RY7A8",
+    image: "https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y29kZSUyMGpzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
     link: "https://github.com/MahFLima/21-Dias-De-Codigo/tree/main/10-login"
   },
   {
@@ -77,7 +77,7 @@ export default [
   },
   {
     title: "16º Dia: Desenvolva um site utilizando alguma API pública(REPO)",
-    image: "https://media-exp1.licdn.com/dms/image/C4D22AQFwm7byMGK7bA/feedshare-shrink_2048_1536/0/1662034326196?e=1665014400&v=beta&t=z3miL_62nKo96AZdDYooKPfqCgbga4wLJg09Jm-xp_w",
+    image: "https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y29kZSUyMGpzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
     link: "https://github.com/MahFLima/21-Dias-De-Codigo/tree/main/15-clone-netflix"
   },
   {
