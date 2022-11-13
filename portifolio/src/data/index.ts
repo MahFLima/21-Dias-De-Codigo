@@ -2,7 +2,7 @@
 export default [
   {
     title: "1º Dia: Criar um repositorio para listar os projetos(REPO)",
-    image: "https://media-exp1.licdn.com/dms/image/C4D22AQFvBKWOJX0HCQ/feedshare-shrink_800/0/1660668520678?e=1665014400&v=beta&t=rwL2sOPTE1cmOoi9wVZ1RoQXFLlG62uPAOGabY831NQ",
+    image: "https://i.pinimg.com/564x/87/a8/d4/87a8d4dc2c25e71a92f917314c2b559a.jpg",
     link: "https://github.com/MahFLima/21-Dias-De-Codigo"
   },
   {
@@ -12,7 +12,7 @@ export default [
   },
   {
     title: "3º Dia: Criar um botão animado(REPO)",
-    image: "https://media-exp1.licdn.com/dms/image/C4D22AQG-ryPJKFAfjQ/feedshare-shrink_2048_1536/0/1660861343650?e=1665014400&v=beta&t=x3Z2EcPaskqsoR1kkbLlvamBV1xclxqhUUiYMssiDKg",
+    image: "https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y29kZSUyMGpzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
     link: "https://github.com/MahFLima/21-Dias-De-Codigo"
   },
   {
@@ -22,22 +22,22 @@ export default [
   },
   {
     title: "5º Dia: Desenvolver uma página customizada que exibe o erro 404(REPO)",
-    image: "https://media-exp1.licdn.com/dms/image/C4D22AQHZLbh2HAUFkw/feedshare-shrink_800/0/1661022438111?e=1665014400&v=beta&t=o41_mcWtDWTzw5Fizp7aX027w7_NiFdJYA9uelJZ6AY",
+    image: "https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y29kZSUyMGpzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
     link: "https://github.com/MahFLima/21-Dias-De-Codigo/tree/main/4-erro-404"
   },
   {
     title: "6º Dia: Criar um card com efeito glassmorphism(REPO)",
-    image: "https://media-exp1.licdn.com/dms/image/C4D22AQGQM_-XOzTLaQ/feedshare-shrink_800/0/1661126033892?e=1665014400&v=beta&t=ZUQS6nAV1HXV3yggnqyIZ2NAf6gB7gv91BakgtNIvj8",
+    image: "https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y29kZSUyMGpzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
     link: "https://github.com/MahFLima/21-Dias-De-Codigo/tree/main/5-card-glassmorphism"
   },
   {
     title: "7º Dia: Desenvolver um contador(REPO)",
-    image: "https://media-exp1.licdn.com/dms/image/C4D22AQG84R79SrUTdg/feedshare-shrink_800/0/1661217438802?e=1665014400&v=beta&t=rq-1tn21-LPSsjjeJC0PJW5kjr6umLZFFan1JJkLENo",
+    image: "https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y29kZSUyMGpzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
     link: "https://github.com/MahFLima/21-Dias-De-Codigo/tree/main/6-timer"
   },
   {
     title: "8º Dia: Desenvolver um toggle que altere o tema para claro e escuro(REPO)",
-    image: "https://media-exp1.licdn.com/dms/image/C4D22AQGr2NccGioMuw/feedshare-shrink_800/0/1661289920211?e=1665014400&v=beta&t=DATQDjMS5CQaogXm5X0R3QfLa90CoMjdoMcc9AanbCk",
+    image: "https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y29kZSUyMGpzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
     link: "https://github.com/MahFLima/21-Dias-De-Codigo/tree/main/7-toggle-dark-mode"
   },
   {
@@ -47,7 +47,7 @@ export default [
   },
   {
     title: "10º Dia: Utilize a lib Particle.js(REPO)",
-    image: "https://media-exp1.licdn.com/dms/image/C4D22AQG9K8mNAoITLg/feedshare-shrink_800/0/1661477471980?e=1665014400&v=beta&t=NijWFXV_fmkplqJuS3Ha4UuZTd6d5DArOtJoHG2bzaw",
+    image: "https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y29kZSUyMGpzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
     link: "https://github.com/MahFLima/21-Dias-De-Codigo/tree/main/9-app-particle"
   },
   {
@@ -57,17 +57,17 @@ export default [
   },
   {
     title: "12º Dia: Desenvolva uma galeria de imagens(REPO)",
-    image: "https://media-exp1.licdn.com/dms/image/C4D22AQEFpoWMRoVAHw/feedshare-shrink_800/0/1661635158797?e=1665014400&v=beta&t=rp4s4Aet8uHb_xNH1ybCHzcB_YKpcBuLpQCJ8MOjGJo",
+    image: "https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y29kZSUyMGpzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
     link: "https://github.com/MahFLima/21-Dias-De-Codigo/tree/main/11-galery"
   },
   {
     title: "13º Dia: Desenvolva um menu responsivo(REPO)",
-    image: "https://media-exp1.licdn.com/dms/image/C4D22AQH-oRe7Fmnktg/feedshare-shrink_800/0/1661732802341?e=1665014400&v=beta&t=Mo6JNKFGVzDsvk3sL9KhbKGQGLC6c2uKJQPbG7zPO_U",
+    image: "https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y29kZSUyMGpzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
     link: "https://github.com/MahFLima/21-Dias-De-Codigo/tree/main/12-menu"
   },
   {
     title: "14º Dia: Crie um formulario de quizzes(REPO)",
-    image: "https://media-exp1.licdn.com/dms/image/C4D22AQFENSDPbNLhuA/feedshare-shrink_800/0/1661825670431?e=1665014400&v=beta&t=qvJRkby0aW9Ahq2i3mvVB_DOVBtiOghAJf1rBDTeBmA",
+    image: "https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y29kZSUyMGpzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
     link: "https://github.com/MahFLima/21-Dias-De-Codigo/tree/main/13-quiz"
   },
   {
@@ -87,22 +87,22 @@ export default [
   },
   {
     title: "18º Dia: Desenvolva um gerador de senhas aleatórias(REPO)",
-    image: "https://media-exp1.licdn.com/dms/image/C4D22AQEECTst1zVg2A/feedshare-shrink_2048_1536/0/1662235932776?e=1665014400&v=beta&t=raayco--e_AmomzxiJEPKYhGY_c5JJUTG04zN8KnAmY",
+    image: "https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y29kZSUyMGpzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
     link: "https://github.com/MahFLima/21-Dias-De-Codigo/tree/main/17-gerador-senhas"
   },
   {
     title: "19º Dia: Desenvolva um site que gere imagens aleatorias utilizando a API do Unsplash(REPO)",
-    image: "https://media-exp1.licdn.com/dms/image/C4D22AQHv15lkvPghNQ/feedshare-shrink_800/0/1662305976824?e=1665014400&v=beta&t=czOYF_pop6hGl_P-8GW6A9Z2PAfEq7YT3ZUGr3dSjQg",
+    image: "https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y29kZSUyMGpzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
     link: "https://github.com/MahFLima/21-Dias-De-Codigo/tree/main/18-random-unsplash"
   },
   {
     title: "20º Dia: Desenvolva um site de emoji piker(REPO)",
-    image: "https://media-exp1.licdn.com/dms/image/C4D22AQEgya8_YtfPVA/feedshare-shrink_800/0/1662318171879?e=1665014400&v=beta&t=pJn8JzOIB8TexE8v8SeWl2O1Ea7iNA_Q2P_o2SwqOq0",
+    image: "https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y29kZSUyMGpzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
     link: "https://github.com/MahFLima/21-Dias-De-Codigo/tree/main/19-emoji"
   },
   {
     title: "21° Dia: Desenvolva uma página para ser seu portifólio(REPO)",
-    image: "https://media-exp1.licdn.com/dms/image/C4D22AQHLJW9s5d28dQ/feedshare-shrink_800/0/1662426803929?e=1665619200&v=beta&t=f9GZ5Z-6Xe-NvxX8rguV7MLj1liUwuU2NCmWgSWLU_Q",
+    image: "https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y29kZSUyMGpzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
     link: "https://github.com/MahFLima/21-Dias-De-Codigo/tree/main/portifolio"
   },
 ]
